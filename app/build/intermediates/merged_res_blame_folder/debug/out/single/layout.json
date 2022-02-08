@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setup_profile.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\activity_setup_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_conversation.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\row_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone_number.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\activity_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_sent.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\item_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_receive.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\item_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otpactivity.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\activity_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\soura\\Documents\\Chatter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_status.xml",
+        "source": "C:\\Users\\soura\\Documents\\Chatter\\app\\src\\main\\res\\layout\\item_status.xml"
+    }
+]

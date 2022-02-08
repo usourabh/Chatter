@@ -1,0 +1,63 @@
+com/example/chatter/Adapters/UsersAdapter.java
+ com.example.chatter.Adapters.UsersAdapter
+ com.example.chatter.Adapters.UsersAdapter$1
+ com.example.chatter.Adapters.UsersAdapter$2
+com/example/chatter/Activities/PhoneNumberActivity.java
+ com.example.chatter.Activities.PhoneNumberActivity
+ com.example.chatter.Activities.PhoneNumberActivity$1
+com/example/chatter/BuildConfig.java
+ com.example.chatter.BuildConfig
+com/example/chatter/Models/Message.java
+ com.example.chatter.Models.Message
+com/example/chatter/Activities/SetupProfileActivity.java
+ com.example.chatter.Activities.SetupProfileActivity
+ com.example.chatter.Activities.SetupProfileActivity$1
+ com.example.chatter.Activities.SetupProfileActivity$2
+ com.example.chatter.Activities.SetupProfileActivity$2$1
+ com.example.chatter.Activities.SetupProfileActivity$2$1$1
+ com.example.chatter.Activities.SetupProfileActivity$2$1$1$1
+ com.example.chatter.Activities.SetupProfileActivity$2$2
+com/example/chatter/Adapters/UsersViewHolder.java
+ com.example.chatter.Adapters.UsersViewHolder
+org/jetbrains/annotations/NotNull.java
+ org.jetbrains.annotations.NotNull
+com/example/chatter/databinding/ActivityPhoneNumberBinding.java
+ com.example.chatter.databinding.ActivityPhoneNumberBinding
+com/example/chatter/databinding/RowConversationBinding.java
+ com.example.chatter.databinding.RowConversationBinding
+com/example/chatter/Models/User.java
+ com.example.chatter.Models.User
+com/example/chatter/databinding/ItemStatusBinding.java
+ com.example.chatter.databinding.ItemStatusBinding
+com/example/chatter/Adapters/MessageAdapters.java
+ com.example.chatter.Adapters.MessageAdapters
+ com.example.chatter.Adapters.MessageAdapters$1
+ com.example.chatter.Adapters.MessageAdapters$2
+ com.example.chatter.Adapters.MessageAdapters$ReceiverViewHolder
+ com.example.chatter.Adapters.MessageAdapters$SentViewHolder
+com/example/chatter/Activities/OTPActivity.java
+ com.example.chatter.Activities.OTPActivity
+ com.example.chatter.Activities.OTPActivity$1
+ com.example.chatter.Activities.OTPActivity$2
+ com.example.chatter.Activities.OTPActivity$2$1
+com/example/chatter/databinding/ActivityChatBinding.java
+ com.example.chatter.databinding.ActivityChatBinding
+com/example/chatter/databinding/ItemSentBinding.java
+ com.example.chatter.databinding.ItemSentBinding
+com/example/chatter/databinding/ActivityMainBinding.java
+ com.example.chatter.databinding.ActivityMainBinding
+com/example/chatter/Activities/MainActivity.java
+ com.example.chatter.Activities.MainActivity
+ com.example.chatter.Activities.MainActivity$1
+com/example/chatter/databinding/ActivitySetupProfileBinding.java
+ com.example.chatter.databinding.ActivitySetupProfileBinding
+com/example/chatter/Activities/ChatActivity.java
+ com.example.chatter.Activities.ChatActivity
+ com.example.chatter.Activities.ChatActivity$1
+ com.example.chatter.Activities.ChatActivity$2
+ com.example.chatter.Activities.ChatActivity$2$1
+ com.example.chatter.Activities.ChatActivity$2$1$1
+com/example/chatter/databinding/ItemReceiveBinding.java
+ com.example.chatter.databinding.ItemReceiveBinding
+com/example/chatter/databinding/ActivityOtpactivityBinding.java
+ com.example.chatter.databinding.ActivityOtpactivityBinding
